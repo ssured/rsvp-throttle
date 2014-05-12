@@ -1,0 +1,26 @@
+{
+  "name": "rsvp-throttle",
+  "version": "0.0.0",
+  "description": "Simple utility to manage concurrent execution of promises",
+  "main": "throttle.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssured/rsvp-throttle.git"
+  },
+  "keywords": [
+    "rsvp",
+    "throttle"
+  ],
+  "author": "Sjoerd de Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssured/rsvp-throttle/issues"
+  },
+  "homepage": "https://github.com/ssured/rsvp-throttle",
+  "dependencies": {
+    "rsvp": "~3.0.6"
+  }
+}

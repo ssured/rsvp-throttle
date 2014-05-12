@@ -1,6 +1,6 @@
 {
   "name": "rsvp-throttle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple utility to manage concurrent execution of promises",
   "main": "throttle.coffee",
   "scripts": {

@@ -3,6 +3,7 @@ rsvp-throttle allows throttling promises
 
 The MIT License (MIT)
 
+Copyright (c) 2013 Meryn Stol
 Copyright (c) 2014 Sjoerd de Jong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
